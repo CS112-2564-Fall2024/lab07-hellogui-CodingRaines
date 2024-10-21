@@ -24,7 +24,7 @@ public class HelloApplication extends Application  { //inheriting core functiona
 
         StackPane layout = new StackPane();
 
-        Scene scene = new Scene(layout, 300, 300);
+        Scene scene = new Scene(layout, 400, 400);
         primaryStage.setScene(scene);
         primaryStage.show();
     }
