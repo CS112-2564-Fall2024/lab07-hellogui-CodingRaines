@@ -20,7 +20,7 @@ public class HelloApplication extends Application  { //inheriting core functiona
     }
 
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("Hello GUI: Prof Horton");
+        primaryStage.setTitle("Hello GUI: Prof. Horton");
 
         StackPane layout = new StackPane();
 
